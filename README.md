@@ -88,10 +88,15 @@ sea_level_plot.png
 📊 What This Project Demonstrates
 
 ✔ Time series data analysis
+
 ✔ Data visualization best practices
+
 ✔ Linear regression modeling
+
 ✔ Future prediction using historical trends
+
 ✔ Clean project structure
+
 ✔ Git workflow
 
 📷 Output Example

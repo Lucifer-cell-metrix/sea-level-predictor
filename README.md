@@ -64,29 +64,27 @@ Matplotlib
 
 SciPy (linregress)
 
-Git & GitHub
 
-📁 Project Structure
-sea-level-predictor/
-│
-├── sea_level_predictor.py
-├── main.py
-├── test_module.py
-├── epa-sea-level.csv
-├── sea_level_plot.png
-└── README.md
 ▶ How to Run Locally
+
 1️⃣ Clone Repository
+
 git clone https://github.com/Lucifer-cell-metrix/sea-level-predictor.git
+
 cd sea-level-predictor
+
 2️⃣ Install Dependencies
+
 pip install pandas matplotlib scipy
+
 3️⃣ Run Project
+
 python main.py
 
 The program will generate:
 
 sea_level_plot.png
+
 📊 What This Project Demonstrates
 
 ✔ Time series data analysis
